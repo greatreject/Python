@@ -41,4 +41,4 @@ else:
   print("We don't have that here...")
   price = 0
 
-print(price)
+print("That coffee is", price, "pounds please")
